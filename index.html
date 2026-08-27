@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>梧州市公安局警务辅助人员笔试考试 刷题与复习系统</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- FontAwesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div id="app" class="dark-theme">
+        <!-- Top Header Navigation -->
+        <header class="app-header">
+            <div class="header-content">
+                <div class="brand">
+                    <i class="fa-solid fa-shield-halved brand-icon"></i>
+                    <div class="brand-text">
+                        <h1>梧州公安辅警笔试刷题平台</h1>
+                        <span class="sub-title">依据《梧州市公安局公开招聘警务辅助人员笔试复习范围》全题库</span>
+                    </div>
+                </div>
+
+                <nav class="main-nav">
+                    <button class="nav-btn active" data-mode="sequence"><i class="fa-solid fa-list-ol"></i> 顺序刷题</button>
+                    <button class="nav-btn" data-mode="real_exams"><i class="fa-solid fa-file-circle-check"></i> 历年真题</button>
+                    <button class="nav-btn" data-mode="category"><i class="fa-solid fa-layer-group"></i> 模块练习</button>
+                    <button class="nav-btn" data-mode="exam"><i class="fa-solid fa-stopwatch"></i> 模拟考试</button>
+                    <button class="nav-btn" data-mode="wrong"><i class="fa-solid fa-circle-xmark"></i> 错题本 <span class="badge" id="wrong-count">0</span></button>
+                    <button class="nav-btn" data-mode="favorite"><i class="fa-solid fa-star"></i> 收藏夹 <span class="badge" id="fav-count">0</span></button>
+                    <button class="nav-btn highlight" data-mode="document"><i class="fa-solid fa-book-bookmark"></i> 查阅官方原文</button>
+                </nav>
+            </div>
+        </header>
+
+        <!-- Main Workspace -->
+        <main class="app-main container">
+            
+            <!-- EXAM / PRACTICE VIEW -->
+            <section id="practice-view" class="view-panel active">
+                
+                <!-- Paper Selector Bar (Top Question Bank Filter) -->
+                <div id="paper-bar" class="paper-bar">
+                    <div class="paper-label">
+                        <i class="fa-solid fa-folder-tree"></i> <strong>题库选择：</strong>
+                    </div>
+                    <div class="paper-tags" id="paper-tags">
+                        <!-- Dynamically populated paper tags -->
+                    </div>
+                </div>
+
+                <!-- Category Selector Bar (Hidden by default, shown in category mode) -->
+                <div id="category-bar" class="category-bar hidden">
+                    <span class="cat-label"><i class="fa-solid fa-filter"></i> 选择考点模块：</span>
+                    <div class="cat-tags">
+                        <button class="cat-tag active" data-cat="all">全部考点</button>
+                        <button class="cat-tag" data-cat="时事政治">时事政治</button>
+                        <button class="cat-tag" data-cat="社会主义法治理念">社会主义法治理念</button>
+                        <button class="cat-tag" data-cat="广西警辅条例">《广西警辅条例》</button>
+                        <button class="cat-tag" data-cat="公安法律法规">公安业务法律法规</button>
+                        <button class="cat-tag" data-cat="监察法">《监察法》</button>
+                    </div>
+                </div>
+
+                <!-- Practice Top Toolbar -->
+                <div class="toolbar-card">
+                    <div class="progress-info">
+                        <span class="tag category-tag" id="current-cat-name">全部模块</span>
+                        <span class="question-progress">题目：<strong id="current-index">1</strong> / <span id="total-count">0</span></span>
+                    </div>
+
+                    <div class="tools-actions">
+                        <label class="switch-label">
+                            <input type="checkbox" id="toggle-recite">
+                            <span class="slider"></span>
+                            <span class="switch-text"><i class="fa-solid fa-eye"></i> 背题模式</span>
+                        </label>
+                        <label class="switch-label">
+                            <input type="checkbox" id="toggle-auto-next">
+                            <span class="slider"></span>
+                            <span class="switch-text"><i class="fa-solid fa-bolt"></i> 自动下一题</span>
+                        </label>
+                        <button class="icon-btn" id="btn-favorite" title="收藏本题">
+                            <i class="fa-regular fa-star" id="fav-icon"></i>
+                        </button>
+                        <button class="icon-btn" id="btn-card" title="展开答题卡">
+                            <i class="fa-solid fa-grip"></i> 答题卡
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Exam Timer Bar (Shown in Exam Mode) -->
+                <div id="exam-timer-bar" class="timer-card hidden">
+                    <div class="timer-info">
+                        <i class="fa-solid fa-clock-rotate-left"></i> 距离考试结束：<span id="exam-timer">60:00</span>
+                    </div>
+                    <button class="btn-submit-exam" id="btn-submit-exam"><i class="fa-solid fa-paper-plane"></i> 一键交卷</button>
+                </div>
+
+                <!-- Question Card Container -->
+                <div class="question-card glass-panel" id="question-card">
+                    <div class="question-header">
+                        <span class="q-type-badge" id="q-type">单选题</span>
+                        <span class="q-source-badge" id="q-source">考点来源</span>
+                    </div>
+
+                    <div class="question-stem" id="q-stem">
+                        题目加载中...
+                    </div>
+
+                    <!-- Options List -->
+                    <div class="options-list" id="options-list">
+                        <!-- Options generated dynamically -->
+                    </div>
+
+                    <!-- Multiple Choice Confirm Button -->
+                    <div id="multi-confirm-box" class="multi-confirm-box hidden">
+                        <button class="btn-confirm-multi" id="btn-confirm-multi">确认答案</button>
+                    </div>
+
+                    <!-- Explanation Result Box -->
+                    <div id="explanation-box" class="explanation-box hidden">
+                        <div class="result-header" id="result-status">
+                            <!-- Correct or Incorrect badge -->
+                        </div>
+                        <div class="exp-content">
+                            <h4><i class="fa-solid fa-lightbulb"></i> 权威解析与出处：</h4>
+                            <p id="exp-text"></p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Bottom Navigation Bar -->
+                <div class="bottom-dock">
+                    <button class="dock-btn" id="btn-prev"><i class="fa-solid fa-chevron-left"></i> 上一题</button>
+                    <button class="dock-btn primary" id="btn-next">下一题 <i class="fa-solid fa-chevron-right"></i></button>
+                </div>
+            </section>
+
+            <!-- DOCUMENT READER VIEW -->
+            <section id="document-view" class="view-panel hidden">
+                <div class="doc-container glass-panel">
+                    <div class="doc-header">
+                        <div class="doc-search-box">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                            <input type="text" id="doc-search-input" placeholder="输入关键字检索（如：留置、24小时、第十二条、监察）...">
+                            <div id="doc-search-nav" class="doc-search-nav hidden">
+                                <span id="search-count-text" class="search-count-text">0 / 0</span>
+                                <button id="btn-search-prev" class="btn-search-nav" title="上一个匹配项"><i class="fa-solid fa-chevron-up"></i></button>
+                                <button id="btn-search-next" class="btn-search-nav" title="下一个匹配项"><i class="fa-solid fa-chevron-down"></i></button>
+                            </div>
+                            <button id="btn-clear-search" class="btn-clear-search hidden" title="清空搜索"><i class="fa-solid fa-xmark"></i></button>
+                        </div>
+                    </div>
+
+                    <div class="doc-body" id="doc-body">
+                        <!-- Document sections loaded dynamically -->
+                    </div>
+                </div>
+            </section>
+
+        </main>
+
+        <!-- Drawer Answer Sheet Modal -->
+        <div id="drawer-card" class="modal-overlay hidden">
+            <div class="modal-card glass-panel">
+                <div class="modal-header">
+                    <h3><i class="fa-solid fa-grip"></i> 答题卡进度与跳转</h3>
+                    <button class="btn-close" id="btn-close-card"><i class="fa-solid fa-xmark"></i></button>
+                </div>
+                <div class="modal-legend">
+                    <span class="legend-item"><i class="legend-box current"></i> 当前</span>
+                    <span class="legend-item"><i class="legend-box correct"></i> 正确</span>
+                    <span class="legend-item"><i class="legend-box wrong"></i> 错误</span>
+                    <span class="legend-item"><i class="legend-box unanswered"></i> 未答</span>
+                </div>
+                <div class="card-grid" id="card-grid">
+                    <!-- Grid items generated dynamically -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Exam Result Modal -->
+        <div id="exam-result-modal" class="modal-overlay hidden">
+            <div class="modal-card score-card glass-panel">
+                <div class="score-header">
+                    <i class="fa-solid fa-trophy trophy-icon"></i>
+                    <h2>全真模拟考试 成绩单</h2>
+                </div>
+                <div class="score-main">
+                    <div class="score-num" id="final-score">0</div>
+                    <div class="score-unit">分 (满分100分)</div>
+                </div>
+                <div class="score-details">
+                    <div class="score-item">答对：<span id="score-correct" class="text-success">0</span> 题</div>
+                    <div class="score-item">答错：<span id="score-wrong" class="text-danger">0</span> 题</div>
+                    <div class="score-item">正确率：<span id="score-accuracy">0%</span></div>
+                </div>
+                <div class="modal-actions">
+                    <button class="dock-btn primary" id="btn-review-exam"><i class="fa-solid fa-magnifying-glass"></i> 查看试卷与解析</button>
+                    <button class="dock-btn" id="btn-restart-exam"><i class="fa-solid fa-rotate-right"></i> 重新考试</button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Scripts -->
+    <script src="app.js"></script>
+</body>
+</html>
