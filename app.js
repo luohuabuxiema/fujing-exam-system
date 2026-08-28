@@ -8,8 +8,8 @@ let currentMode = localStorage.getItem('wz_current_mode') || 'sequence'; // sequ
 let currentCategory = 'all';
 let currentPaper = localStorage.getItem('wz_current_paper') || 'all'; // 'all', or specific paper name
 
-let reciteMode = false;
-let userAnswers = {}; // qid -> { selected: [], isCorrect: boolean, submitted: boolean }
+let reciteMode = localStorage.getItem('wz_recite_mode') === 'true';
+let userAnswers = JSON.parse(localStorage.getItem('wz_user_answers') || '{}'); // qid -> { selected: [], isCorrect: boolean, submitted: boolean }
 let wrongQuestions = new Set(JSON.parse(localStorage.getItem('wz_wrong_qs') || '[]'));
 let favoriteQuestions = new Set(JSON.parse(localStorage.getItem('wz_fav_qs') || '[]'));
 let modeIndices = JSON.parse(localStorage.getItem('wz_mode_indices') || '{}');
@@ -46,6 +46,7 @@ const el = {
     
     toggleRecite: document.getElementById('toggle-recite'),
     toggleAutoNext: document.getElementById('toggle-auto-next'),
+    btnReset: document.getElementById('btn-reset'),
     btnFav: document.getElementById('btn-favorite'),
     favIcon: document.getElementById('fav-icon'),
     btnCard: document.getElementById('btn-card'),
@@ -87,7 +88,13 @@ const el = {
     scoreWrong: document.getElementById('score-wrong'),
     scoreAccuracy: document.getElementById('score-accuracy'),
     btnReviewExam: document.getElementById('btn-review-exam'),
-    btnRestartExam: document.getElementById('btn-restart-exam')
+    btnRestartExam: document.getElementById('btn-restart-exam'),
+
+    resetModal: document.getElementById('reset-modal'),
+    btnResetCurrent: document.getElementById('btn-reset-current'),
+    btnResetWrong: document.getElementById('btn-reset-wrong'),
+    btnResetAll: document.getElementById('btn-reset-all'),
+    btnCloseReset: document.getElementById('btn-close-reset')
 };
 
 // Initialize Application
@@ -118,6 +125,10 @@ function updateBadges() {
     el.favCountBadge.textContent = favoriteQuestions.size;
     localStorage.setItem('wz_wrong_qs', JSON.stringify([...wrongQuestions]));
     localStorage.setItem('wz_fav_qs', JSON.stringify([...favoriteQuestions]));
+}
+
+function saveAnswers() {
+    localStorage.setItem('wz_user_answers', JSON.stringify(userAnswers));
 }
 
 // Dynamic Paper Tags Renderer
@@ -522,6 +533,7 @@ function handleOptionClick(q, optLetter) {
             ansState.selected.push(optLetter);
         }
         userAnswers[q.id] = ansState;
+        saveAnswers();
         renderQuestion();
     }
 }
@@ -543,6 +555,7 @@ function validateAnswer(q, ansState) {
     }
     
     userAnswers[q.id] = ansState;
+    saveAnswers();
     updateBadges();
     renderQuestion();
 
@@ -744,8 +757,10 @@ function bindEvents() {
         tag.addEventListener('click', () => filterByCategory(tag.dataset.cat));
     });
     
+    el.toggleRecite.checked = reciteMode;
     el.toggleRecite.addEventListener('change', (e) => {
         reciteMode = e.target.checked;
+        localStorage.setItem('wz_recite_mode', reciteMode);
         renderQuestion();
     });
     
@@ -758,6 +773,60 @@ function bindEvents() {
             autoNextTimer = null;
         }
     });
+
+    // Reset Modal Controls
+    if (el.btnReset) {
+        el.btnReset.addEventListener('click', () => {
+            el.resetModal.classList.remove('hidden');
+        });
+    }
+
+    if (el.btnCloseReset) {
+        el.btnCloseReset.addEventListener('click', () => {
+            el.resetModal.classList.add('hidden');
+        });
+    }
+
+    if (el.btnResetCurrent) {
+        el.btnResetCurrent.addEventListener('click', () => {
+            filteredQuestions.forEach(q => {
+                delete userAnswers[q.id];
+            });
+            saveAnswers();
+            currentIndex = 0;
+            saveCurrentIndex();
+            renderQuestion();
+            el.resetModal.classList.add('hidden');
+        });
+    }
+
+    if (el.btnResetWrong) {
+        el.btnResetWrong.addEventListener('click', () => {
+            wrongQuestions.clear();
+            updateBadges();
+            if (currentMode === 'wrong') {
+                applyFiltersAndRender();
+            }
+            el.resetModal.classList.add('hidden');
+        });
+    }
+
+    if (el.btnResetAll) {
+        el.btnResetAll.addEventListener('click', () => {
+            userAnswers = {};
+            wrongQuestions.clear();
+            favoriteQuestions.clear();
+            modeIndices = {};
+            localStorage.removeItem('wz_user_answers');
+            localStorage.removeItem('wz_wrong_qs');
+            localStorage.removeItem('wz_fav_qs');
+            localStorage.removeItem('wz_mode_indices');
+            currentIndex = 0;
+            updateBadges();
+            applyFiltersAndRender();
+            el.resetModal.classList.add('hidden');
+        });
+    }
     
     el.btnFav.addEventListener('click', () => {
         if (filteredQuestions.length === 0) return;

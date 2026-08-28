@@ -80,6 +80,9 @@
                             <span class="slider"></span>
                             <span class="switch-text"><i class="fa-solid fa-bolt"></i> 自动下一题</span>
                         </label>
+                        <button class="icon-btn" id="btn-reset" title="重置刷题进度">
+                            <i class="fa-solid fa-rotate-left"></i> 重置刷题
+                        </button>
                         <button class="icon-btn" id="btn-favorite" title="收藏本题">
                             <i class="fa-regular fa-star" id="fav-icon"></i>
                         </button>
@@ -200,6 +203,32 @@
                     <button class="dock-btn primary" id="btn-review-exam"><i class="fa-solid fa-magnifying-glass"></i> 查看试卷与解析</button>
                     <button class="dock-btn" id="btn-restart-exam"><i class="fa-solid fa-rotate-right"></i> 重新考试</button>
                 </div>
+            </div>
+        </div>
+
+        <!-- Reset Options Modal -->
+        <div id="reset-modal" class="modal-overlay hidden">
+            <div class="modal-card glass-panel" style="max-width: 420px; text-align: center;">
+                <div class="modal-header" style="justify-content: center; margin-bottom: 12px;">
+                    <h3><i class="fa-solid fa-rotate-left" style="color: var(--accent-gold); margin-right: 6px;"></i> 重置刷题进度</h3>
+                </div>
+                <p style="color: var(--text-secondary); margin: 0 0 20px 0; font-size: 14px; line-height: 1.6;">
+                    请选择您想要执行的重置操作：
+                </p>
+                <div style="display: flex; flex-direction: column; gap: 12px; margin-bottom: 20px;">
+                    <button class="dock-btn primary" id="btn-reset-current" style="justify-content: center;">
+                        <i class="fa-solid fa-arrow-rotate-left"></i> 重置当前分类（进度与答题）
+                    </button>
+                    <button class="dock-btn" id="btn-reset-wrong" style="justify-content: center; color: #ef4444; border-color: rgba(239, 68, 68, 0.4);">
+                        <i class="fa-solid fa-trash-can"></i> 清空错题本
+                    </button>
+                    <button class="dock-btn" id="btn-reset-all" style="justify-content: center; color: #f59e0b; border-color: rgba(245, 158, 11, 0.4);">
+                        <i class="fa-solid fa-broom"></i> 清空全部做题记录与进度
+                    </button>
+                </div>
+                <button class="btn-close-modal" id="btn-close-reset" style="background: rgba(255, 255, 255, 0.08); border: 1px solid var(--border-color); color: var(--text-secondary); padding: 8px 24px; border-radius: var(--radius-sm); cursor: pointer; width: 100%;">
+                    取消
+                </button>
             </div>
         </div>
 
