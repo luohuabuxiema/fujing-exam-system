@@ -558,6 +558,17 @@ input:checked + .slider::before {
     display: flex;
     align-items: flex-start;
     gap: 12px;
+
+    -webkit-tap-highlight-color: transparent;
+    outline: none;
+    user-select: none;
+}
+
+@media (hover: hover) {
+    .option-item:hover {
+        background: var(--bg-card-hover);
+        border-color: rgba(59, 130, 246, 0.4);
+    }
 }
 
 .opt-key {
@@ -575,11 +586,6 @@ input:checked + .slider::before {
     word-break: break-word;
     overflow-wrap: break-word;
     white-space: normal;
-}
-
-.option-item:hover {
-    background: var(--bg-card-hover);
-    border-color: rgba(59, 130, 246, 0.4);
 }
 
 .option-item.selected {

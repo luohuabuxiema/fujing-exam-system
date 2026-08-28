@@ -428,6 +428,10 @@ function renderQuestion() {
         return;
     }
     
+    if (document.activeElement && typeof document.activeElement.blur === 'function') {
+        document.activeElement.blur();
+    }
+
     const q = filteredQuestions[currentIndex];
     const ansState = userAnswers[q.id] || { selected: [], isCorrect: false, submitted: false };
     
