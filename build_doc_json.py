@@ -102,7 +102,8 @@ for line in lines:
         html_blocks.append(f'__BODY_CHAP_PLACEHOLDER__{display_text}')
     elif (line.startswith('一、') or line.startswith('二、') or line.startswith('三、') or 
           line.startswith('四、') or line.startswith('五、') or 
-          '警务辅助人员条例' in line or '中华人民共和国监察法' in line or '附件2' in line) and len(line) < 50:
+          '警务辅助人员条例' in line or '中华人民共和国监察法' in line or '附件2' in line or
+          '公安业务' in line or '复习范围' in line) and len(line) < 50:
         html_blocks.append(f'<h2 class="doc-sec-title">{display_text}</h2>')
     else:
         html_blocks.append(f'<p class="doc-p">{display_text}</p>')
