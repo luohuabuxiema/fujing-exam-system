@@ -2045,6 +2045,216 @@
   },
   {
     "id": 113,
+    "category": "广西警辅条例",
+    "paper": "梧州市公安局招聘笔试复习范围",
+    "type": "multiple",
+    "question": "根据《广西警辅条例》第十三条，警务辅助人员依法享有的权利包括（ ）。",
+    "options": [
+      "A. 非因法定事由、非经法定程序，不被解聘",
+      "B. 带薪年休假、产假、婚丧假等休息休假",
+      "C. 依法提出申诉和控告",
+      "D. 参加业务知识和技能培训"
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "【解析】《广西警辅条例》第十三条规定了警务辅助人员依法享有的9项权利，包括获得工作条件保障、工资福利、带薪休假、培训、非因法定事由不被解聘、提出建议、申诉控告、依法解除劳动合同等。",
+    "sourceArticle": "《广西警辅条例》第十三条"
+  },
+  {
+    "id": 114,
+    "category": "广西警辅条例",
+    "paper": "梧州市公安局招聘笔试复习范围",
+    "type": "multiple",
+    "question": "根据《广西警辅条例》第十四条，警务辅助人员应当履行的义务包括（ ）。",
+    "options": [
+      "A. 忠于宪法，遵守法律法规",
+      "B. 服从公安机关管理和人民警察指挥",
+      "C. 遵守公安机关制度和工作纪律",
+      "D. 保守国家秘密和警务工作秘密"
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "【解析】《广西警辅条例》第十四条规定了警务辅助人员应当履行的7项义务，包括忠于宪法、依法履职、服从管理指挥、文明履职、遵守纪律、保守秘密等。",
+    "sourceArticle": "《广西警辅条例》第十四条"
+  },
+  {
+    "id": 115,
+    "category": "广西警辅条例",
+    "paper": "梧州市公安局招聘笔试复习范围",
+    "type": "single",
+    "question": "警务辅助人员招聘应当遵循（ ）的原则，统一招聘标准和程序，明确招聘岗位，严格选拔聘用。",
+    "options": [
+      "A. 公开平等、竞争择优",
+      "B. 内部优先、逐级晋升",
+      "C. 政府指派、行政任命",
+      "D. 自愿报名、无须考核"
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "【解析】《广西警辅条例》第十六条规定：警务辅助人员招聘应当遵循公开平等、竞争择优的原则，统一招聘标准和程序，明确招聘岗位，严格选拔聘用。",
+    "sourceArticle": "《广西警辅条例》第十六条"
+  },
+  {
+    "id": 116,
+    "category": "广西警辅条例",
+    "paper": "梧州市公安局招聘笔试复习范围",
+    "type": "single",
+    "question": "新招聘的警务辅助人员上岗前，公安机关应当参照（ ）宣誓规定组织其宣誓。",
+    "options": [
+      "A. 人民警察",
+      "B. 公务员",
+      "C. 军人",
+      "D. 法官"
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "【解析】《广西警辅条例》第二十一条规定：新招聘的警务辅助人员上岗前，公安机关应当参照人民警察宣誓规定组织其宣誓。",
+    "sourceArticle": "《广西警辅条例》第二十一条"
+  },
+  {
+    "id": 117,
+    "category": "广西警辅条例",
+    "paper": "梧州市公安局招聘笔试复习范围",
+    "type": "single",
+    "question": "县级以上人民政府公安机关应当明确（ ），建立健全警务辅助人员监督管理制度，落实监督管理责任。",
+    "options": [
+      "A. 专门管理机构",
+      "B. 联合督察组",
+      "C. 第三方评估机构",
+      "D. 社会监督委员会"
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "【解析】《广西警辅条例》第二十二条规定：县级以上人民政府公安机关应当明确专门管理机构，建立健全警务辅助人员监督管理制度，落实监督管理责任。",
+    "sourceArticle": "《广西警辅条例》第二十二条"
+  },
+  {
+    "id": 118,
+    "category": "广西警辅条例",
+    "paper": "梧州市公安局招聘笔试复习范围",
+    "type": "multiple",
+    "question": "公安机关应当对警务辅助人员进行哪些培训？（ ）",
+    "options": [
+      "A. 岗前培训",
+      "B. 年度培训",
+      "C. 专项培训",
+      "D. 思想政治、职业道德、法律知识、业务技能等教育"
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "【解析】《广西警辅条例》第二十四条规定：公安机关应当对警务辅助人员进行岗前培训、年度培训和专项培训，开展思想政治、职业道德、法律知识、业务技能、安全防护、纪律作风等教育。",
+    "sourceArticle": "《广西警辅条例》第二十四条"
+  },
+  {
+    "id": 119,
+    "category": "广西警辅条例",
+    "paper": "梧州市公安局招聘笔试复习范围",
+    "type": "single",
+    "question": "对工作表现突出、取得显著成绩或者作出突出贡献的警务辅助人员，按照规定给予（ ）。",
+    "options": [
+      "A. 表彰和奖励",
+      "B. 转为正式警察",
+      "C. 免试晋升",
+      "D. 特别津贴"
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "【解析】《广西警辅条例》第二十六条规定：对工作表现突出、取得显著成绩或者作出突出贡献的警务辅助人员，按照国家和自治区有关规定给予表彰和奖励。",
+    "sourceArticle": "《广西警辅条例》第二十六条"
+  },
+  {
+    "id": 120,
+    "category": "广西警辅条例",
+    "paper": "梧州市公安局招聘笔试复习范围",
+    "type": "multiple",
+    "question": "警务辅助人员有下列哪些情形之一的，公安机关可以依法解除劳动关系？（ ）",
+    "options": [
+      "A. 在试用期间被证明不符合聘用条件的",
+      "B. 不能胜任工作，经培训或调岗仍不能胜任的",
+      "C. 严重失职造成重大损害的",
+      "D. 被依法追究刑事责任的"
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "【解析】《广西警辅条例》第三十二条规定了公安机关可以依法解除劳动关系的6种情形，包括试用期不合格、不能胜任工作、医疗期满不能从事工作、严重失职、违纪情节严重、被追究刑事责任等。",
+    "sourceArticle": "《广西警辅条例》第三十二条"
+  },
+  {
+    "id": 121,
+    "category": "广西警辅条例",
+    "paper": "梧州市公安局招聘笔试复习范围",
+    "type": "single",
+    "question": "任何单位和个人对警务辅助人员的违法违纪行为有权向公安机关或者其他有关部门（ ）。",
+    "options": [
+      "A. 检举和控告",
+      "B. 直接处罚",
+      "C. 申请行政复议",
+      "D. 提起诉讼"
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "【解析】《广西警辅条例》第三十三条规定：任何单位和个人对警务辅助人员的违法违纪行为有权向公安机关或者其他有关部门检举和控告。受理检举和控告的机关应当及时查处，并将查处结果告知检举人、控告人。",
+    "sourceArticle": "《广西警辅条例》第三十三条"
+  },
+  {
+    "id": 122,
+    "category": "广西警辅条例",
+    "paper": "梧州市公安局招聘笔试复习范围",
+    "type": "single",
+    "question": "警务辅助人员违反本条例规定的，由（ ）按照警务辅助人员管理相关规定处理。",
+    "options": [
+      "A. 公安机关",
+      "B. 劳动仲裁委员会",
+      "C. 人民法院",
+      "D. 人力资源和社会保障部门"
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "【解析】《广西警辅条例》第四十一条规定：警务辅助人员违反本条例规定的，由公安机关按照警务辅助人员管理相关规定处理；构成违反治安管理行为的，由公安机关依法给予治安管理处罚；构成犯罪的，依法追究刑事责任。",
+    "sourceArticle": "《广西警辅条例》第四十一条"
+  },
+  {
+    "id": 123,
+    "category": "广西警辅条例",
+    "paper": "梧州市公安局招聘笔试复习范围",
+    "type": "single",
+    "question": "公安机关及其人民警察在工作中违反本条例规定，滥用职权、玩忽职守、徇私舞弊的，应当如何处理？（ ）",
+    "options": [
+      "A. 对直接负责的主管人员和其他直接责任人员依法给予处分，构成犯罪的依法追究刑事责任",
+      "B. 仅给予经济罚款",
+      "C. 由上级公安机关口头批评教育",
+      "D. 由同级监察机关进行谈话"
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "【解析】《广西警辅条例》第四十三条规定：公安机关及其人民警察在工作中违反本条例规定，滥用职权、玩忽职守、徇私舞弊的，对直接负责的主管人员和其他直接责任人员依法给予处分；构成犯罪的，依法追究刑事责任。",
+    "sourceArticle": "《广西警辅条例》第四十三条"
+  },
+  {
+    "id": 124,
     "category": "时事政治",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2062,7 +2272,7 @@
     "sourceArticle": "考点1"
   },
   {
-    "id": 114,
+    "id": 125,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2080,7 +2290,7 @@
     "sourceArticle": "考点2"
   },
   {
-    "id": 115,
+    "id": 126,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -2101,7 +2311,7 @@
     "sourceArticle": "考点3"
   },
   {
-    "id": 116,
+    "id": 127,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2119,7 +2329,7 @@
     "sourceArticle": "考点4"
   },
   {
-    "id": 117,
+    "id": 128,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2137,7 +2347,7 @@
     "sourceArticle": "考点5/6"
   },
   {
-    "id": 118,
+    "id": 129,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2155,7 +2365,7 @@
     "sourceArticle": "考点7"
   },
   {
-    "id": 119,
+    "id": 130,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2173,7 +2383,7 @@
     "sourceArticle": "考点8"
   },
   {
-    "id": 120,
+    "id": 131,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -2194,7 +2404,7 @@
     "sourceArticle": "考点9"
   },
   {
-    "id": 121,
+    "id": 132,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -2214,7 +2424,7 @@
     "sourceArticle": "考点10"
   },
   {
-    "id": 122,
+    "id": 133,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -2235,7 +2445,7 @@
     "sourceArticle": "考点11"
   },
   {
-    "id": 123,
+    "id": 134,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2253,7 +2463,7 @@
     "sourceArticle": "考点12"
   },
   {
-    "id": 124,
+    "id": 135,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2271,7 +2481,7 @@
     "sourceArticle": "考点13"
   },
   {
-    "id": 125,
+    "id": 136,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -2292,7 +2502,7 @@
     "sourceArticle": "考点14"
   },
   {
-    "id": 126,
+    "id": 137,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -2313,7 +2523,7 @@
     "sourceArticle": "考点15"
   },
   {
-    "id": 127,
+    "id": 138,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2331,7 +2541,7 @@
     "sourceArticle": "考点16"
   },
   {
-    "id": 128,
+    "id": 139,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2349,7 +2559,7 @@
     "sourceArticle": "考点17"
   },
   {
-    "id": 129,
+    "id": 140,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2367,7 +2577,7 @@
     "sourceArticle": "考点18"
   },
   {
-    "id": 130,
+    "id": 141,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2385,7 +2595,7 @@
     "sourceArticle": "考点19"
   },
   {
-    "id": 131,
+    "id": 142,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -2406,7 +2616,7 @@
     "sourceArticle": "考点20"
   },
   {
-    "id": 132,
+    "id": 143,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2424,7 +2634,7 @@
     "sourceArticle": "考点21"
   },
   {
-    "id": 133,
+    "id": 144,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2442,7 +2652,7 @@
     "sourceArticle": "考点22"
   },
   {
-    "id": 134,
+    "id": 145,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2460,7 +2670,7 @@
     "sourceArticle": "考点23"
   },
   {
-    "id": 135,
+    "id": 146,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2478,7 +2688,7 @@
     "sourceArticle": "考点24"
   },
   {
-    "id": 136,
+    "id": 147,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2496,7 +2706,7 @@
     "sourceArticle": "考点25"
   },
   {
-    "id": 137,
+    "id": 148,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2514,7 +2724,7 @@
     "sourceArticle": "考点26"
   },
   {
-    "id": 138,
+    "id": 149,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2532,7 +2742,7 @@
     "sourceArticle": "考点27"
   },
   {
-    "id": 139,
+    "id": 150,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -2553,7 +2763,7 @@
     "sourceArticle": "考点28"
   },
   {
-    "id": 140,
+    "id": 151,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2571,7 +2781,7 @@
     "sourceArticle": "考点29"
   },
   {
-    "id": 141,
+    "id": 152,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2589,7 +2799,7 @@
     "sourceArticle": "考点30"
   },
   {
-    "id": 142,
+    "id": 153,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2607,7 +2817,7 @@
     "sourceArticle": "考点31"
   },
   {
-    "id": 143,
+    "id": 154,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2625,7 +2835,7 @@
     "sourceArticle": "考点32"
   },
   {
-    "id": 144,
+    "id": 155,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2643,7 +2853,7 @@
     "sourceArticle": "考点33"
   },
   {
-    "id": 145,
+    "id": 156,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -2664,7 +2874,7 @@
     "sourceArticle": "考点34"
   },
   {
-    "id": 146,
+    "id": 157,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -2685,7 +2895,7 @@
     "sourceArticle": "考点35"
   },
   {
-    "id": 147,
+    "id": 158,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2703,7 +2913,7 @@
     "sourceArticle": "考点36"
   },
   {
-    "id": 148,
+    "id": 159,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2721,7 +2931,7 @@
     "sourceArticle": "考点37"
   },
   {
-    "id": 149,
+    "id": 160,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2739,7 +2949,7 @@
     "sourceArticle": "考点38"
   },
   {
-    "id": 150,
+    "id": 161,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "judge",
@@ -2755,7 +2965,7 @@
     "sourceArticle": "考点39"
   },
   {
-    "id": 151,
+    "id": 162,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2773,7 +2983,7 @@
     "sourceArticle": "考点40"
   },
   {
-    "id": 152,
+    "id": 163,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -2794,7 +3004,7 @@
     "sourceArticle": "考点41"
   },
   {
-    "id": 153,
+    "id": 164,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2812,7 +3022,7 @@
     "sourceArticle": "考点42"
   },
   {
-    "id": 154,
+    "id": 165,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -2833,7 +3043,7 @@
     "sourceArticle": "考点43"
   },
   {
-    "id": 155,
+    "id": 166,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2851,7 +3061,7 @@
     "sourceArticle": "考点44"
   },
   {
-    "id": 156,
+    "id": 167,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -2871,7 +3081,7 @@
     "sourceArticle": "考点45/46"
   },
   {
-    "id": 157,
+    "id": 168,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2889,7 +3099,7 @@
     "sourceArticle": "考点47"
   },
   {
-    "id": 158,
+    "id": 169,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2907,7 +3117,7 @@
     "sourceArticle": "考点48"
   },
   {
-    "id": 159,
+    "id": 170,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2925,7 +3135,7 @@
     "sourceArticle": "考点49/63"
   },
   {
-    "id": 160,
+    "id": 171,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2943,7 +3153,7 @@
     "sourceArticle": "考点50"
   },
   {
-    "id": 161,
+    "id": 172,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -2963,7 +3173,7 @@
     "sourceArticle": "考点51"
   },
   {
-    "id": 162,
+    "id": 173,
     "category": "时事政治",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2981,7 +3191,7 @@
     "sourceArticle": "考点52"
   },
   {
-    "id": 163,
+    "id": 174,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -2999,7 +3209,7 @@
     "sourceArticle": "考点53"
   },
   {
-    "id": 164,
+    "id": 175,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3017,7 +3227,7 @@
     "sourceArticle": "考点54"
   },
   {
-    "id": 165,
+    "id": 176,
     "category": "社会主义法治理念",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3035,7 +3245,7 @@
     "sourceArticle": "考点55"
   },
   {
-    "id": 166,
+    "id": 177,
     "category": "社会主义法治理念",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3053,7 +3263,7 @@
     "sourceArticle": "考点56/57"
   },
   {
-    "id": 167,
+    "id": 178,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3071,7 +3281,7 @@
     "sourceArticle": "考点58"
   },
   {
-    "id": 168,
+    "id": 179,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3089,7 +3299,7 @@
     "sourceArticle": "考点59/60"
   },
   {
-    "id": 169,
+    "id": 180,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3107,7 +3317,7 @@
     "sourceArticle": "考点61"
   },
   {
-    "id": 170,
+    "id": 181,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3125,7 +3335,7 @@
     "sourceArticle": "考点62"
   },
   {
-    "id": 171,
+    "id": 182,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3143,7 +3353,7 @@
     "sourceArticle": "考点64"
   },
   {
-    "id": 172,
+    "id": 183,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3161,7 +3371,7 @@
     "sourceArticle": "考点65"
   },
   {
-    "id": 173,
+    "id": 184,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3179,7 +3389,7 @@
     "sourceArticle": "考点66"
   },
   {
-    "id": 174,
+    "id": 185,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3197,7 +3407,7 @@
     "sourceArticle": "考点67"
   },
   {
-    "id": 175,
+    "id": 186,
     "category": "社会主义法治理念",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3215,7 +3425,7 @@
     "sourceArticle": "考点68"
   },
   {
-    "id": 176,
+    "id": 187,
     "category": "社会主义法治理念",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3233,7 +3443,7 @@
     "sourceArticle": "考点69"
   },
   {
-    "id": 177,
+    "id": 188,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3251,7 +3461,7 @@
     "sourceArticle": "考点70/71"
   },
   {
-    "id": 178,
+    "id": 189,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3269,7 +3479,7 @@
     "sourceArticle": "考点72"
   },
   {
-    "id": 179,
+    "id": 190,
     "category": "时事政治",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3287,7 +3497,7 @@
     "sourceArticle": "考点73"
   },
   {
-    "id": 180,
+    "id": 191,
     "category": "社会主义法治理念",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3305,7 +3515,7 @@
     "sourceArticle": "考点74/75"
   },
   {
-    "id": 181,
+    "id": 192,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -3325,7 +3535,7 @@
     "sourceArticle": "考点76-78"
   },
   {
-    "id": 182,
+    "id": 193,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3343,7 +3553,7 @@
     "sourceArticle": "考点79"
   },
   {
-    "id": 183,
+    "id": 194,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3361,7 +3571,7 @@
     "sourceArticle": "考点80"
   },
   {
-    "id": 184,
+    "id": 195,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3379,7 +3589,7 @@
     "sourceArticle": "考点81"
   },
   {
-    "id": 185,
+    "id": 196,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3397,7 +3607,7 @@
     "sourceArticle": "考点82"
   },
   {
-    "id": 186,
+    "id": 197,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -3417,7 +3627,7 @@
     "sourceArticle": "考点83"
   },
   {
-    "id": 187,
+    "id": 198,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -3438,7 +3648,7 @@
     "sourceArticle": "考点84"
   },
   {
-    "id": 188,
+    "id": 199,
     "category": "时事政治",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3456,7 +3666,7 @@
     "sourceArticle": "考点85"
   },
   {
-    "id": 189,
+    "id": 200,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3474,7 +3684,7 @@
     "sourceArticle": "考点86"
   },
   {
-    "id": 190,
+    "id": 201,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3492,7 +3702,7 @@
     "sourceArticle": "考点87"
   },
   {
-    "id": 191,
+    "id": 202,
     "category": "社会主义法治理念",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3510,7 +3720,7 @@
     "sourceArticle": "考点88"
   },
   {
-    "id": 192,
+    "id": 203,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3528,7 +3738,7 @@
     "sourceArticle": "考点89"
   },
   {
-    "id": 193,
+    "id": 204,
     "category": "时事政治",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3546,7 +3756,7 @@
     "sourceArticle": "考点90"
   },
   {
-    "id": 194,
+    "id": 205,
     "category": "时事政治",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3564,7 +3774,7 @@
     "sourceArticle": "考点91"
   },
   {
-    "id": 195,
+    "id": 206,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3582,7 +3792,7 @@
     "sourceArticle": "考点92"
   },
   {
-    "id": 196,
+    "id": 207,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3600,7 +3810,7 @@
     "sourceArticle": "考点93"
   },
   {
-    "id": 197,
+    "id": 208,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3618,7 +3828,7 @@
     "sourceArticle": "考点94"
   },
   {
-    "id": 198,
+    "id": 209,
     "category": "时事政治",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3636,7 +3846,7 @@
     "sourceArticle": "考点95"
   },
   {
-    "id": 199,
+    "id": 210,
     "category": "时事政治",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3654,7 +3864,7 @@
     "sourceArticle": "考点96"
   },
   {
-    "id": 200,
+    "id": 211,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3672,7 +3882,7 @@
     "sourceArticle": "考点97"
   },
   {
-    "id": 201,
+    "id": 212,
     "category": "时事政治",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -3692,7 +3902,7 @@
     "sourceArticle": "考点98"
   },
   {
-    "id": 202,
+    "id": 213,
     "category": "时事政治",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -3712,7 +3922,7 @@
     "sourceArticle": "考点99/100"
   },
   {
-    "id": 203,
+    "id": 214,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3730,7 +3940,7 @@
     "sourceArticle": "考点101"
   },
   {
-    "id": 204,
+    "id": 215,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3748,7 +3958,7 @@
     "sourceArticle": "考点102"
   },
   {
-    "id": 205,
+    "id": 216,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3766,7 +3976,7 @@
     "sourceArticle": "考点103"
   },
   {
-    "id": 206,
+    "id": 217,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3784,7 +3994,7 @@
     "sourceArticle": "考点104"
   },
   {
-    "id": 207,
+    "id": 218,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -3804,7 +4014,7 @@
     "sourceArticle": "考点105"
   },
   {
-    "id": 208,
+    "id": 219,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -3824,7 +4034,7 @@
     "sourceArticle": "考点106"
   },
   {
-    "id": 209,
+    "id": 220,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3842,7 +4052,7 @@
     "sourceArticle": "考点107"
   },
   {
-    "id": 210,
+    "id": 221,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -3863,7 +4073,7 @@
     "sourceArticle": "考点108"
   },
   {
-    "id": 211,
+    "id": 222,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -3884,7 +4094,7 @@
     "sourceArticle": "考点109"
   },
   {
-    "id": 212,
+    "id": 223,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -3904,7 +4114,7 @@
     "sourceArticle": "考点110"
   },
   {
-    "id": 213,
+    "id": 224,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3922,7 +4132,7 @@
     "sourceArticle": "考点111"
   },
   {
-    "id": 214,
+    "id": 225,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -3940,7 +4150,7 @@
     "sourceArticle": "考点112"
   },
   {
-    "id": 215,
+    "id": 226,
     "category": "社会主义法治理念",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -3961,7 +4171,7 @@
     "sourceArticle": "考点113"
   },
   {
-    "id": 216,
+    "id": 227,
     "category": "时事政治",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -3982,7 +4192,7 @@
     "sourceArticle": "考点114"
   },
   {
-    "id": 217,
+    "id": 228,
     "category": "时事政治",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -4003,7 +4213,7 @@
     "sourceArticle": "考点115"
   },
   {
-    "id": 218,
+    "id": 229,
     "category": "时事政治",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -4024,7 +4234,7 @@
     "sourceArticle": "考点116"
   },
   {
-    "id": 219,
+    "id": 230,
     "category": "时事政治",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -4045,7 +4255,7 @@
     "sourceArticle": "考点117"
   },
   {
-    "id": 220,
+    "id": 231,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4063,7 +4273,7 @@
     "sourceArticle": "考点118"
   },
   {
-    "id": 221,
+    "id": 232,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4081,7 +4291,7 @@
     "sourceArticle": "考点119"
   },
   {
-    "id": 222,
+    "id": 233,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4099,7 +4309,7 @@
     "sourceArticle": "考点120"
   },
   {
-    "id": 223,
+    "id": 234,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4117,7 +4327,7 @@
     "sourceArticle": "考点121"
   },
   {
-    "id": 224,
+    "id": 235,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4135,7 +4345,7 @@
     "sourceArticle": "考点122"
   },
   {
-    "id": 225,
+    "id": 236,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4153,7 +4363,7 @@
     "sourceArticle": "考点123"
   },
   {
-    "id": 226,
+    "id": 237,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4171,7 +4381,7 @@
     "sourceArticle": "考点124"
   },
   {
-    "id": 227,
+    "id": 238,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4189,7 +4399,7 @@
     "sourceArticle": "考点125"
   },
   {
-    "id": 228,
+    "id": 239,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4207,7 +4417,7 @@
     "sourceArticle": "考点126"
   },
   {
-    "id": 229,
+    "id": 240,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4225,7 +4435,7 @@
     "sourceArticle": "考点127"
   },
   {
-    "id": 230,
+    "id": 241,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4243,7 +4453,7 @@
     "sourceArticle": "考点128"
   },
   {
-    "id": 231,
+    "id": 242,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4261,7 +4471,7 @@
     "sourceArticle": "考点129"
   },
   {
-    "id": 232,
+    "id": 243,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4279,7 +4489,7 @@
     "sourceArticle": "考点130/131"
   },
   {
-    "id": 233,
+    "id": 244,
     "category": "社会主义法治理念",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4297,7 +4507,7 @@
     "sourceArticle": "考点132"
   },
   {
-    "id": 234,
+    "id": 245,
     "category": "社会主义法治理念",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4315,7 +4525,7 @@
     "sourceArticle": "考点133"
   },
   {
-    "id": 235,
+    "id": 246,
     "category": "社会主义法治理念",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4333,7 +4543,7 @@
     "sourceArticle": "考点134"
   },
   {
-    "id": 236,
+    "id": 247,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4351,7 +4561,7 @@
     "sourceArticle": "考点135"
   },
   {
-    "id": 237,
+    "id": 248,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4369,7 +4579,7 @@
     "sourceArticle": "考点136"
   },
   {
-    "id": 238,
+    "id": 249,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4387,7 +4597,7 @@
     "sourceArticle": "考点137"
   },
   {
-    "id": 239,
+    "id": 250,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4405,7 +4615,7 @@
     "sourceArticle": "考点138"
   },
   {
-    "id": 240,
+    "id": 251,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4423,7 +4633,7 @@
     "sourceArticle": "考点139"
   },
   {
-    "id": 241,
+    "id": 252,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4441,7 +4651,7 @@
     "sourceArticle": "考点140"
   },
   {
-    "id": 242,
+    "id": 253,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4459,7 +4669,7 @@
     "sourceArticle": "考点141"
   },
   {
-    "id": 243,
+    "id": 254,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4477,7 +4687,7 @@
     "sourceArticle": "考点142"
   },
   {
-    "id": 244,
+    "id": 255,
     "category": "社会主义法治理念",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -4498,7 +4708,7 @@
     "sourceArticle": "考点143"
   },
   {
-    "id": 245,
+    "id": 256,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4516,7 +4726,7 @@
     "sourceArticle": "考点21/144"
   },
   {
-    "id": 246,
+    "id": 257,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "multiple",
@@ -4537,7 +4747,7 @@
     "sourceArticle": "考点145"
   },
   {
-    "id": 247,
+    "id": 258,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4555,7 +4765,7 @@
     "sourceArticle": "考点146"
   },
   {
-    "id": 248,
+    "id": 259,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4573,7 +4783,7 @@
     "sourceArticle": "考点147"
   },
   {
-    "id": 249,
+    "id": 260,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4591,7 +4801,7 @@
     "sourceArticle": "考点148"
   },
   {
-    "id": 250,
+    "id": 261,
     "category": "时事政治",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4609,7 +4819,7 @@
     "sourceArticle": "考点149"
   },
   {
-    "id": 251,
+    "id": 262,
     "category": "公安法律法规",
     "paper": "梧州市公安局招聘笔试复习范围",
     "type": "single",
@@ -4627,7 +4837,7 @@
     "sourceArticle": "考点150"
   },
   {
-    "id": 252,
+    "id": 263,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -4645,7 +4855,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 253,
+    "id": 264,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -4663,7 +4873,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 254,
+    "id": 265,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -4681,7 +4891,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 255,
+    "id": 266,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -4699,7 +4909,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 256,
+    "id": 267,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -4717,7 +4927,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 257,
+    "id": 268,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -4735,7 +4945,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 258,
+    "id": 269,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -4753,7 +4963,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 259,
+    "id": 270,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -4771,7 +4981,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 260,
+    "id": 271,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -4789,7 +4999,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 261,
+    "id": 272,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -4807,7 +5017,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 262,
+    "id": 273,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -4825,7 +5035,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 263,
+    "id": 274,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -4843,7 +5053,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 264,
+    "id": 275,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -4861,7 +5071,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 265,
+    "id": 276,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -4879,7 +5089,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 266,
+    "id": 277,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -4897,7 +5107,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 267,
+    "id": 278,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -4915,7 +5125,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 268,
+    "id": 279,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -4933,7 +5143,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 269,
+    "id": 280,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -4951,7 +5161,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 270,
+    "id": 281,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -4969,7 +5179,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 271,
+    "id": 282,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -4987,7 +5197,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 272,
+    "id": 283,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -5005,7 +5215,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 273,
+    "id": 284,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -5023,7 +5233,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 274,
+    "id": 285,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -5041,7 +5251,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 275,
+    "id": 286,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -5059,7 +5269,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 276,
+    "id": 287,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -5077,7 +5287,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 277,
+    "id": 288,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -5095,7 +5305,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 278,
+    "id": 289,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -5113,7 +5323,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 279,
+    "id": 290,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -5131,7 +5341,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 280,
+    "id": 291,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -5149,7 +5359,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 281,
+    "id": 292,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -5167,7 +5377,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 282,
+    "id": 293,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -5185,7 +5395,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 283,
+    "id": 294,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -5203,7 +5413,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 284,
+    "id": 295,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -5221,7 +5431,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 285,
+    "id": 296,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -5239,7 +5449,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 286,
+    "id": 297,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -5257,7 +5467,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 287,
+    "id": 298,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -5275,7 +5485,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 288,
+    "id": 299,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -5293,7 +5503,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 289,
+    "id": 300,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -5311,7 +5521,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 290,
+    "id": 301,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -5329,7 +5539,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 291,
+    "id": 302,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "single",
@@ -5347,7 +5557,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 292,
+    "id": 303,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5368,7 +5578,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 293,
+    "id": 304,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5388,7 +5598,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 294,
+    "id": 305,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5409,7 +5619,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 295,
+    "id": 306,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5428,7 +5638,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 296,
+    "id": 307,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5448,7 +5658,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 297,
+    "id": 308,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5469,7 +5679,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 298,
+    "id": 309,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5490,7 +5700,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 299,
+    "id": 310,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5511,7 +5721,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 300,
+    "id": 311,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5530,7 +5740,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 301,
+    "id": 312,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5550,7 +5760,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 302,
+    "id": 313,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5569,7 +5779,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 303,
+    "id": 314,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5588,7 +5798,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 304,
+    "id": 315,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5609,7 +5819,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 305,
+    "id": 316,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5629,7 +5839,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 306,
+    "id": 317,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5650,7 +5860,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 307,
+    "id": 318,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5670,7 +5880,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 308,
+    "id": 319,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5690,7 +5900,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 309,
+    "id": 320,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5710,7 +5920,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 310,
+    "id": 321,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5731,7 +5941,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 311,
+    "id": 322,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5752,7 +5962,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 312,
+    "id": 323,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5771,7 +5981,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 313,
+    "id": 324,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5792,7 +6002,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 314,
+    "id": 325,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5812,7 +6022,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 315,
+    "id": 326,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
@@ -5833,7 +6043,7 @@
     "sourceArticle": "2024年长洲区真题"
   },
   {
-    "id": 316,
+    "id": 327,
     "category": "历年真题",
     "paper": "2024梧州市长洲区笔试真题",
     "type": "multiple",
